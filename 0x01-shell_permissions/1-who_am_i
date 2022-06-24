@@ -1,2 +1,2 @@
-#!/bin/bas
-$USERNAME
+#!/bin/bash
+echo $USERNAME
